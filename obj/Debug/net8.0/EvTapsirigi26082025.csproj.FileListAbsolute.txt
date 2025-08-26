@@ -1,0 +1,28 @@
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\bin\Debug\net8.0\EvTapsirigi26082025.exe
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\bin\Debug\net8.0\EvTapsirigi26082025.deps.json
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\bin\Debug\net8.0\EvTapsirigi26082025.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\bin\Debug\net8.0\EvTapsirigi26082025.dll
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\bin\Debug\net8.0\EvTapsirigi26082025.pdb
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\EvTapsirigi26082025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\EvTapsirigi26082025.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\EvTapsirigi26082025.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\EvTapsirigi26082025.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\EvTapsirigi26082025.dll
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\refint\EvTapsirigi26082025.dll
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\EvTapsirigi26082025.pdb
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\EvTapsirigi26082025.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\obj\Debug\net8.0\ref\EvTapsirigi26082025.dll
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\bin\Debug\net8.0\EvTapsirigi26082025.exe
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\bin\Debug\net8.0\EvTapsirigi26082025.deps.json
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\bin\Debug\net8.0\EvTapsirigi26082025.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\bin\Debug\net8.0\EvTapsirigi26082025.dll
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\bin\Debug\net8.0\EvTapsirigi26082025.pdb
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\EvTapsirigi26082025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\EvTapsirigi26082025.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\EvTapsirigi26082025.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\EvTapsirigi26082025.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\EvTapsirigi26082025.dll
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\refint\EvTapsirigi26082025.dll
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\EvTapsirigi26082025.pdb
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\EvTapsirigi26082025.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\EvTapsirigi26082025\Home Task 26 August 2025\obj\Debug\net8.0\ref\EvTapsirigi26082025.dll
